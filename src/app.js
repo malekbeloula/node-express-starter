@@ -4,7 +4,6 @@ const helmet = require('helmet');
 const compression = require('compression');
 const morgan = require('morgan');
 const rateLimiter = require('./middleware/rateLimiter');
-require('dotenv').config();
 
 const app = express();
 
