@@ -34,6 +34,7 @@ node-starter/
 ### 🛠️ Clone the Repository
 ```sh
 git clone https://github.com/yourname/node-express-starter.git
+
 cd node-express-starter
 ```
 
@@ -88,11 +89,6 @@ Thumbs.db
 *.bak  
 *.swp  
 ```
-
-## 🔥 Future Enhancements
-- [ ] **JWT Authentication**  
-- [ ] **Database Integration (PostgreSQL/MongoDB)**  
-- [ ] **Docker & CI/CD**  
 
 ## 🎯 License
 This project is **open-source** and available under the **MIT License**.
